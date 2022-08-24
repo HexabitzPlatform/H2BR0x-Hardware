@@ -1,2 +1,2 @@
 # H2RB0x-Hardware
-Hexabitz EXG Monitor Module Hardware Design
+Hexabitz Single-Lead, Heart Rate Monitor Front End (based on AD8232) Module Hardware Design
