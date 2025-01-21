@@ -3,7 +3,7 @@
 <eagle version="9.6.1">
 <drawing>
 <settings>
-<setting alwaysvectorfont="yes"/>
+<setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="3.125" unitdist="mil" unit="mil" style="lines" multiple="1" display="yes" altdistance="5" altunitdist="mil" altunit="mil"/>
@@ -211,7 +211,7 @@
 <text x="-21.11375" y="-11.1125" size="1.9304" layer="26" rot="MR0">P4*</text>
 <text x="-6.588125" y="-11.1125" size="1.9304" layer="26" rot="MR0">P3</text>
 <text x="-9.2075" y="-11.1125" size="1.9304" layer="21">P3</text>
-<text x="23.76678125" y="-0.102615625" size="1.9304" layer="22" font="vector" rot="MR270" align="center">H2BR01-5</text>
+<text x="23.76678125" y="-0.102615625" size="1.9304" layer="22" font="vector" rot="MR270" align="center">H2BR01-6</text>
 <text x="-18.415" y="-3.4925" size="1.9304" layer="21">R</text>
 <text x="-18.415" y="1.666875" size="1.9304" layer="21">C</text>
 <text x="-18.335625" y="4.206875" size="1.9304" layer="21">B</text>
@@ -3219,7 +3219,7 @@ design rules under a new name.</description>
 <attribute name="TOLERANCE" value="" x="12.461875" y="2.8575" size="1.778" layer="28" rot="MR0" display="off"/>
 <attribute name="VOLTAGE_RATING" value="" x="12.461875" y="2.8575" size="1.778" layer="28" rot="MR0" display="off"/>
 </element>
-<element name="R20" library="HEXABITZ_RCLS" library_urn="urn:adsk.eagle:library:20064561" package="R-0402" package3d_urn="urn:adsk.eagle:package:19666455/4" value="32K" x="6.905625" y="3.01625" smashed="yes" rot="MR90">
+<element name="R20" library="HEXABITZ_RCLS" library_urn="urn:adsk.eagle:library:20064561" package="R-0402" package3d_urn="urn:adsk.eagle:package:19666455/4" value="26.4K" x="6.905625" y="3.01625" smashed="yes" rot="MR90">
 <attribute name="MFN" value="" x="6.905625" y="3.01625" size="1.778" layer="28" rot="MR90" display="off"/>
 <attribute name="MPN" value="" x="6.905625" y="3.01625" size="1.778" layer="28" rot="MR90" display="off"/>
 <attribute name="NAME" x="7.223125" y="3.730625" size="0.6096" layer="52" rot="MR270"/>
@@ -3227,7 +3227,7 @@ design rules under a new name.</description>
 <attribute name="RESISTANCE" value="" x="6.905625" y="3.01625" size="1.778" layer="28" rot="MR90" display="off"/>
 <attribute name="TOLERANCE" value="" x="6.905625" y="3.01625" size="1.778" layer="28" rot="MR90" display="off"/>
 </element>
-<element name="R21" library="HEXABITZ_RCLS" library_urn="urn:adsk.eagle:library:20064561" package="R-0402" package3d_urn="urn:adsk.eagle:package:19666455/4" value="32K" x="6.19125" y="1.27" smashed="yes" rot="MR180">
+<element name="R21" library="HEXABITZ_RCLS" library_urn="urn:adsk.eagle:library:20064561" package="R-0402" package3d_urn="urn:adsk.eagle:package:19666455/4" value="26.4K" x="6.19125" y="1.27" smashed="yes" rot="MR180">
 <attribute name="MFN" value="" x="6.19125" y="1.27" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="MPN" value="" x="6.19125" y="1.27" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="NAME" x="5.55625" y="1.5875" size="0.6096" layer="52" rot="MR180"/>
@@ -3262,7 +3262,7 @@ design rules under a new name.</description>
 <attribute name="TOLERANCE" value="" x="10.00125" y="2.619375" size="1.778" layer="28" rot="MR90" display="off"/>
 <attribute name="VOLTAGE_RATING" value="" x="10.00125" y="2.619375" size="1.778" layer="28" rot="MR90" display="off"/>
 </element>
-<element name="R22" library="HEXABITZ_RCLS" library_urn="urn:adsk.eagle:library:20064561" package="R-0402" package3d_urn="urn:adsk.eagle:package:19666455/4" value="16K" x="4.1275" y="4.1275" smashed="yes" rot="MR0">
+<element name="R22" library="HEXABITZ_RCLS" library_urn="urn:adsk.eagle:library:20064561" package="R-0402" package3d_urn="urn:adsk.eagle:package:19666455/4" value="13.2K" x="4.1275" y="4.1275" smashed="yes" rot="MR0">
 <attribute name="MFN" value="" x="4.1275" y="4.1275" size="1.778" layer="28" rot="MR0" display="off"/>
 <attribute name="MPN" value="" x="4.1275" y="4.1275" size="1.778" layer="28" rot="MR0" display="off"/>
 <attribute name="NAME" x="4.841875" y="3.81" size="0.6096" layer="52" rot="MR0"/>

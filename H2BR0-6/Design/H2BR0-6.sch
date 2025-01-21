@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
+<grid distance="0.025" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
 <layer number="2" name="Route2" color="16" fill="1" visible="no" active="no"/>
@@ -7008,12 +7008,12 @@ Source: &lt;a href="https://www.te.com/commerce/DocumentDelivery/DDEController?A
 <part name="R18" library="HEXABITZ_RCLS" library_urn="urn:adsk.eagle:library:20064561" deviceset="R-0402" device="" package3d_urn="urn:adsk.eagle:package:19666455/4" value="560K"/>
 <part name="R19" library="HEXABITZ_RCLS" library_urn="urn:adsk.eagle:library:20064561" deviceset="R-0402" device="" package3d_urn="urn:adsk.eagle:package:19666455/4" value="200K"/>
 <part name="C15" library="HEXABITZ_RCLS" library_urn="urn:adsk.eagle:library:20064561" deviceset="C-0402" device="" package3d_urn="urn:adsk.eagle:package:19666459/4" value="100nF"/>
-<part name="R20" library="HEXABITZ_RCLS" library_urn="urn:adsk.eagle:library:20064561" deviceset="R-0402" device="" package3d_urn="urn:adsk.eagle:package:19666455/4" value="32K"/>
-<part name="R21" library="HEXABITZ_RCLS" library_urn="urn:adsk.eagle:library:20064561" deviceset="R-0402" device="" package3d_urn="urn:adsk.eagle:package:19666455/4" value="32K"/>
+<part name="R20" library="HEXABITZ_RCLS" library_urn="urn:adsk.eagle:library:20064561" deviceset="R-0402" device="" package3d_urn="urn:adsk.eagle:package:19666455/4" value="26.4K"/>
+<part name="R21" library="HEXABITZ_RCLS" library_urn="urn:adsk.eagle:library:20064561" deviceset="R-0402" device="" package3d_urn="urn:adsk.eagle:package:19666455/4" value="26.4K"/>
 <part name="C16" library="HEXABITZ_RCLS" library_urn="urn:adsk.eagle:library:20064561" deviceset="C-0402" device="" package3d_urn="urn:adsk.eagle:package:19666459/4" value="100nF"/>
 <part name="C17" library="HEXABITZ_RCLS" library_urn="urn:adsk.eagle:library:20064561" deviceset="C-0402" device="" package3d_urn="urn:adsk.eagle:package:19666459/4" value="100nF"/>
 <part name="C18" library="HEXABITZ_RCLS" library_urn="urn:adsk.eagle:library:20064561" deviceset="C-0402" device="" package3d_urn="urn:adsk.eagle:package:19666459/4" value="100nF"/>
-<part name="R22" library="HEXABITZ_RCLS" library_urn="urn:adsk.eagle:library:20064561" deviceset="R-0402" device="" package3d_urn="urn:adsk.eagle:package:19666455/4" value="16K"/>
+<part name="R22" library="HEXABITZ_RCLS" library_urn="urn:adsk.eagle:library:20064561" deviceset="R-0402" device="" package3d_urn="urn:adsk.eagle:package:19666455/4" value="13.2K"/>
 <part name="R23" library="HEXABITZ_RCLS" library_urn="urn:adsk.eagle:library:20064561" deviceset="R-0402" device="" package3d_urn="urn:adsk.eagle:package:19666455/4" value="22K"/>
 <part name="R24" library="HEXABITZ_RCLS" library_urn="urn:adsk.eagle:library:20064561" deviceset="R-0402" device="" package3d_urn="urn:adsk.eagle:package:19666455/4" value="47K"/>
 <part name="C20" library="HEXABITZ_RCLS" library_urn="urn:adsk.eagle:library:20064561" deviceset="C-0402" device="" package3d_urn="urn:adsk.eagle:package:19666459/4" value="100nF">
@@ -7075,8 +7075,8 @@ Source: &lt;a href="https://www.te.com/commerce/DocumentDelivery/DDEController?A
 <text x="216.2722" y="14.2766" size="1.9304" layer="100" font="vector">Revision</text>
 <text x="216.45" y="4.9548" size="1.9304" layer="100" font="vector">Sheet   of</text>
 <text x="200.0162" y="19.2042" size="1.9304" layer="100" font="vector">Title</text>
-<text x="181.4742" y="19.2042" size="1.9304" layer="102" font="vector">H2BR0-5</text>
-<text x="177.2578" y="10.7714" size="1.9304" layer="101" font="vector">EXG Monitor (EU Version)</text>
+<text x="181.4742" y="19.2042" size="1.9304" layer="102" font="vector">H2BR0-6</text>
+<text x="177.2578" y="10.7714" size="1.9304" layer="101" font="vector">EXG Monitor (US Version)</text>
 <text x="206.8742" y="19.2042" size="1.9304" layer="101" font="vector">H2BR0_Backend</text>
 <wire x1="169.46" y1="3.38" x2="169.46" y2="7.698" width="0.1524" layer="205"/>
 <wire x1="169.46" y1="7.698" x2="169.46" y2="17.858" width="0.1524" layer="205"/>
@@ -7668,8 +7668,8 @@ Source: &lt;a href="https://www.te.com/commerce/DocumentDelivery/DDEController?A
 <text x="216.2722" y="14.2766" size="1.9304" layer="100" font="vector">Revision</text>
 <text x="216.45" y="4.9548" size="1.9304" layer="100" font="vector">Sheet   of</text>
 <text x="200.0162" y="19.2042" size="1.9304" layer="100" font="vector">Title</text>
-<text x="181.4742" y="19.2042" size="1.9304" layer="102" font="vector">H2BR0-5</text>
-<text x="177.2578" y="10.7714" size="1.9304" layer="101" font="vector">EXG Monitor (EU Version)</text>
+<text x="181.4742" y="19.2042" size="1.9304" layer="102" font="vector">H2BR0-6</text>
+<text x="177.2578" y="10.7714" size="1.9304" layer="101" font="vector">EXG Monitor (US Version)</text>
 <text x="206.8742" y="19.2042" size="1.9304" layer="101" font="vector">H2BR0_Frontend</text>
 <wire x1="169.46" y1="3.38" x2="169.46" y2="7.698" width="0.1524" layer="205"/>
 <wire x1="169.46" y1="7.698" x2="169.46" y2="17.858" width="0.1524" layer="205"/>
@@ -7712,7 +7712,7 @@ for EEG(Alpha)</text>
 <wire x1="185.42" y1="40.64" x2="151.765" y2="40.64" width="0.1524" layer="101"/>
 <wire x1="151.765" y1="40.64" x2="151.765" y2="88.9" width="0.1524" layer="101"/>
 <wire x1="151.765" y1="88.9" x2="185.42" y2="88.9" width="0.1524" layer="101"/>
-<text x="217.805" y="31.75" size="2.54" layer="100">Notch filter 50Hz
+<text x="217.805" y="31.75" size="2.54" layer="100">Notch filter 60Hz
     Gain = 1.47</text>
 <wire x1="106.68" y1="88.9" x2="106.68" y2="40.64" width="0.1524" layer="101"/>
 <wire x1="106.68" y1="40.64" x2="145.415" y2="40.64" width="0.1524" layer="101"/>
@@ -7830,11 +7830,11 @@ Cut-off freq = 160Hz for EMG</text>
 </instance>
 <instance part="R20" gate="G$1" x="228.6" y="55.245" smashed="yes" rot="R90">
 <attribute name="NAME" x="227.1014" y="53.34" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="231.902" y="52.705" size="1.778" layer="96" rot="R90"/>
+<attribute name="VALUE" x="231.902" y="52.07" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="R21" gate="G$1" x="249.555" y="48.26" smashed="yes" rot="MR0">
 <attribute name="NAME" x="251.46" y="49.7586" size="1.778" layer="95" rot="MR0"/>
-<attribute name="VALUE" x="252.095" y="44.958" size="1.778" layer="96" rot="MR0"/>
+<attribute name="VALUE" x="252.73" y="44.958" size="1.778" layer="96" rot="MR0"/>
 </instance>
 <instance part="C16" gate="G$1" x="257.175" y="60.325" smashed="yes" rot="MR270">
 <attribute name="NAME" x="253.619" y="65.024" size="1.778" layer="95" rot="MR180"/>
@@ -7850,7 +7850,7 @@ Cut-off freq = 160Hz for EMG</text>
 </instance>
 <instance part="R22" gate="G$1" x="247.015" y="66.675" smashed="yes" rot="R90">
 <attribute name="NAME" x="245.5164" y="64.77" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="250.317" y="64.135" size="1.778" layer="96" rot="R90"/>
+<attribute name="VALUE" x="250.317" y="63.5" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="R23" gate="G$1" x="217.17" y="73.66" smashed="yes">
 <attribute name="NAME" x="215.265" y="75.1586" size="1.778" layer="95"/>
